@@ -1,7 +1,6 @@
-n = 10
+n = 22 #N-QUEEN  can be any n;
 result = []
-outputNumber = 1
-
+outputNumber = 4 # the number of output result.
 
 def solve_n_queens():  
     columnIndices = []
